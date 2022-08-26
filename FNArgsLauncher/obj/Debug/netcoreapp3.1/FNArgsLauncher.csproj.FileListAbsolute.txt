@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\FNArgsLauncher\FNArgsLauncher\bin\Debug\netcoreapp3.1\FNArgsLauncher.exe
+C:\Users\User\source\repos\FNArgsLauncher\FNArgsLauncher\bin\Debug\netcoreapp3.1\FNArgsLauncher.deps.json
+C:\Users\User\source\repos\FNArgsLauncher\FNArgsLauncher\bin\Debug\netcoreapp3.1\FNArgsLauncher.runtimeconfig.json
+C:\Users\User\source\repos\FNArgsLauncher\FNArgsLauncher\bin\Debug\netcoreapp3.1\FNArgsLauncher.runtimeconfig.dev.json
+C:\Users\User\source\repos\FNArgsLauncher\FNArgsLauncher\bin\Debug\netcoreapp3.1\FNArgsLauncher.dll
+C:\Users\User\source\repos\FNArgsLauncher\FNArgsLauncher\bin\Debug\netcoreapp3.1\FNArgsLauncher.pdb
+C:\Users\User\source\repos\FNArgsLauncher\FNArgsLauncher\obj\Debug\netcoreapp3.1\FNArgsLauncher.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FNArgsLauncher\FNArgsLauncher\obj\Debug\netcoreapp3.1\FNArgsLauncher.Form1.resources
+C:\Users\User\source\repos\FNArgsLauncher\FNArgsLauncher\obj\Debug\netcoreapp3.1\FNArgsLauncher.csproj.GenerateResource.cache
+C:\Users\User\source\repos\FNArgsLauncher\FNArgsLauncher\obj\Debug\netcoreapp3.1\FNArgsLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FNArgsLauncher\FNArgsLauncher\obj\Debug\netcoreapp3.1\FNArgsLauncher.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FNArgsLauncher\FNArgsLauncher\obj\Debug\netcoreapp3.1\FNArgsLauncher.AssemblyInfo.cs
+C:\Users\User\source\repos\FNArgsLauncher\FNArgsLauncher\obj\Debug\netcoreapp3.1\FNArgsLauncher.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FNArgsLauncher\FNArgsLauncher\obj\Debug\netcoreapp3.1\FNArgsLauncher.dll
+C:\Users\User\source\repos\FNArgsLauncher\FNArgsLauncher\obj\Debug\netcoreapp3.1\FNArgsLauncher.pdb
+C:\Users\User\source\repos\FNArgsLauncher\FNArgsLauncher\obj\Debug\netcoreapp3.1\FNArgsLauncher.genruntimeconfig.cache
